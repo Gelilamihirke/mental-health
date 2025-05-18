@@ -202,7 +202,7 @@ Game.Draw = function(context, snake) {
 };
 
 
-/**
+ /**
  * Game Snake
  */
 Game.Snake = function(elementId, conf) {
