@@ -1,13 +1,13 @@
 /**
- * Namespace
- */
+* Namespace
+*/
 var Game      = Game      || {};
 var Keyboard  = Keyboard  || {}; 
 var Component = Component || {};
 
 /**
  * Keyboard Map
- */
+*/
 Keyboard.Keymap = {
   37: 'left',
   38: 'up',
