@@ -114,7 +114,8 @@
 
 
 .img-1{
-    background-image: url("../Images/food-page-images/salmon.jpg");
+    background-image: url("../Images/food-page-images/fish.jpg");
+    background-position-x: -100px;
 }
 
 
